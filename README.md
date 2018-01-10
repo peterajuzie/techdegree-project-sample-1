@@ -1,1 +1,1 @@
-# techdegree-project-sample-1
+# Techdegree Project Sample 1
